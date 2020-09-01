@@ -1,0 +1,17 @@
+schoolBus\model\studentInTrip.class
+usermanagement\dao\StudentDao.class
+schoolBus\model\commuteTrip.class
+student\model\Student.class
+person\model\person.class
+schoolBus\model\commuteCompany.class
+usermanagement\utl\HibernateUtil.class
+usermanagement\web\UserServlet.class
+usermanagement\dao\UserDao.class
+usermanagement\web\SchoolServlet.class
+school\model\School.class
+usermanagement\dao\TestHibernate.class
+gender\model\Gender.class
+usermanagement\web\StudentServlet.class
+customer\model\customer.class
+usermanagement\dao\SchoolDao.class
+usermanagement\model\User.class
